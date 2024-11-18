@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Classroom + Leetcode hybrid platform<br>👯 I’m looking to collaborate on web development and machine learning<br>🌱 I’m currently learning NestJs<br>💬 Ask me about: Web development, Machine Learning, Image processing, The Universe<br>⚡ Fun fact: Do you know that universe is expanding faster than speed of light?<br>😄 Pronouns: He/Him
+🔭 I’m currently working on Coderoom: A Classroom + Leetcode hybrid platform<br>👯 I’m looking to collaborate on web development and machine learning<br>🌱 I’m currently learning NestJs<br>💬 Ask me about: Web development, Machine Learning, Image processing, The Universe<br>⚡ Fun fact: Do you know that universe is expanding faster than speed of light?<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
